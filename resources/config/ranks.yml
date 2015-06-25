@@ -1,0 +1,29 @@
+#  _____      _                    _____                          
+# |  __ \    (_)                  / ____|                         
+# | |__) | __ _ ___  ___  _ __   | (___   ___ _ ____   _____ _ __ 
+# |  ___/ '__| / __|/ _ \| '_ \   \___ \ / _ \ '__\ \ / / _ \ '__|
+# | |   | |  | \__ \ (_) | | | |  ____) |  __/ |   \ V /  __/ |   
+# |_|   |_|  |_|___/\___/|_| |_| |_____/ \___|_|    \_/ \___|_|   
+                                                                 
+                                                                 
+disable: false
+devDisable: false
+testDisable: false
+
+rank-D:
+    prefix: "D"
+    group: "D"
+    default: "true"
+
+rank-C
+    prefix: "C"
+    group: "C"
+    default: "false"
+rank-B:
+    prefix: "B"
+    group: "B"
+    default: "false"
+rank-A:
+    prefix: "A"
+    group: "A"
+    default: "false"
