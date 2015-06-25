@@ -1,0 +1,38 @@
+#  _____      _                    _____                          
+# |  __ \    (_)                  / ____|                         
+# | |__) | __ _ ___  ___  _ __   | (___   ___ _ ____   _____ _ __ 
+# |  ___/ '__| / __|/ _ \| '_ \   \___ \ / _ \ '__\ \ / / _ \ '__|
+# | |   | |  | \__ \ (_) | | | |  ____) |  __/ |   \ V /  __/ |   
+# |_|   |_|  |_|___/\___/|_| |_| |_____/ \___|_|    \_/ \___|_|   
+                                                                 
+                                                                 
+whitelist: false
+devOnly: false
+tapNPC: true
+spawnNPC: true
+fallbackServer: ":null:"
+
+# Warning messages
+invalidName: "Your username contains offensive language"
+spamMute: "You have been muted for spamming"
+spamKick: "Spamming"
+spamTempBan: "Banned by Admin"
+coinHack: "Something has gone wrong. Your coins have been set to $nullCoins"
+modKick: "We don't allow mods"
+modTempBan: "Banned by Admin"
+modPermBan: "Using mods"
+HUDDisable: "HUD has been disabled to stop lag!"
+
+# DEV STUFF
+setNameTag: true
+setRank: true
+setDisplayName: true
+displayHUD: true
+HUDFormat: "A"
+HUDTicks: "20"
+HUDDisable: "Message: HUDDisable"
+
+# DATA SHIT
+saveData: true
+saveRank: true
+overrideDefault: false
